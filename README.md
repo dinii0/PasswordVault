@@ -37,12 +37,17 @@ The code I provided is not full. So therefor I recommend manually to add the fil
 
 ... with that being said, I'm expecting one some operative system to not work or to be buggy. Especially old operating system with outdated motherboard, CPU etc.
 
+## <h2 align=center>*Issues, pull requests and repo* </h2>
 [![GitHub issues](https://img.shields.io/github/issues/dinii0/PasswordVault)](https://github.com/dinii0/PasswordVault/issues)
-
 [![GitHub issues closed](https://img.shields.io/github/issues-closed/dinii0/PasswordVault)](https://github.com/dinii0/PasswordVault/issues?q=is%3Aissue+is%3Aclosed)
 
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/dinii0/PasswordVault)](https://github.com/dinii0/PasswordVault/pulls) 
-
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/dinii0/PasswordVault)](https://github.com/dinii0/PasswordVault/pulls?q=is%3Apr+is%3Aclosed)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/dinii0/PasswordVault?color=yellow) 
+
+## <h2 align=center>*You can give me a star!* </h2>
+![dinii0's github stats](https://github-readme-stats.vercel.app/api?username=dinii0&show_icons=true)
+
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/dinii0/PasswordVault/)
