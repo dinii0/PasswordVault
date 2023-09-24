@@ -58,7 +58,7 @@ The code I provided is not full. So therefor I recommend manually to add the fil
       <br>
       <h2>You can give me a star!</h2>
       <a href="https://github.com/dinii0/PasswordVault/stargazers">
-        <img src="https://www.builtwithlovellc.com/wp-content/uploads/2022/01/cropped-built-with-love-logo-5.png" alt="Built with Love">
+        <img src="https://i.imgur.com/FyVXkZL.png" alt="Built with Love">
       </a>
     </td>
   </tr>
