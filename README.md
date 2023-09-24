@@ -37,25 +37,30 @@ The code I provided is not full. So therefor I recommend manually to add the fil
 
 ... with that being said, I'm expecting one some operative system to not work or to be buggy. Especially old operating system with outdated motherboard, CPU etc.
 
-<p align="center">
-  <h2>Issues, pull requests and repo</h2>
-  <a href="https://github.com/dinii0/Random-Assembly-MIPS-Projects/issues">
-    <img src="https://img.shields.io/github/issues/dinii0/Random-Assembly-MIPS-Projects" alt="GitHub issues">
-  </a>
-  <a href="https://github.com/dinii0/Random-Assembly-MIPS-Projects/issues?q=is%3Aissue+is%3Aclosed">
-    <img src="https://img.shields.io/github/issues-closed/dinii0/Random-Assembly-MIPS-Projects" alt="GitHub issues closed">
-  </a>
-  <a href="https://github.com/dinii0/Random-Assembly-MIPS-Projects/pulls">
-    <img src="https://img.shields.io/github/issues-pr/dinii0/Random-Assembly-MIPS-Projects" alt="GitHub pull requests">
-  </a>
-  <a href="https://github.com/dinii0/Random-Assembly-MIPS-Projects/pulls?q=is%3Apr+is%3Aclosed">
-    <img src="https://img.shields.io/github/issues-pr-closed/dinii0/Random-Assembly-MIPS-Projects" alt="GitHub pull requests closed">
-  </a>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=dinii0&show_icons=true" alt="dinii0's GitHub Stats">
-  <br>
-  <h2>You can give me a star!</h2>
-  <a href="https://github.com/dinii0/Random-Assembly-MIPS-Projects/">
-    <img src="https://www.builtwithlovellc.com/wp-content/uploads/2022/01/cropped-built-with-love-logo-5.png" alt="Built with Love">
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <h2>Issues, pull requests and repo</h2>
+      <a href="https://github.com/dinii0/Random-Assembly-MIPS-Projects/issues">
+        <img src="https://img.shields.io/github/issues/dinii0/Random-Assembly-MIPS-Projects" alt="GitHub issues">
+      </a>
+      <a href="https://github.com/dinii0/Random-Assembly-MIPS-Projects/issues?q=is%3Aissue+is%3Aclosed">
+        <img src="https://img.shields.io/github/issues-closed/dinii0/Random-Assembly-MIPS-Projects" alt="GitHub issues closed">
+      </a>
+      <a href="https://github.com/dinii0/Random-Assembly-MIPS-Projects/pulls">
+        <img src="https://img.shields.io/github/issues-pr/dinii0/Random-Assembly-MIPS-Projects" alt="GitHub pull requests">
+      </a>
+      <a href="https://github.com/dinii0/Random-Assembly-MIPS-Projects/pulls?q=is%3Apr+is%3Aclosed">
+        <img src="https://img.shields.io/github/issues-pr-closed/dinii0/Random-Assembly-MIPS-Projects" alt="GitHub pull requests closed">
+      </a>
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api?username=dinii0&show_icons=true" alt="dinii0's GitHub Stats">
+      <br>
+      <h2>You can give me a star!</h2>
+      <a href="https://github.com/dinii0/Random-Assembly-MIPS-Projects/">
+        <img src="https://www.builtwithlovellc.com/wp-content/uploads/2022/01/cropped-built-with-love-logo-5.png" alt="Built with Love">
+      </a>
+    </td>
+  </tr>
+</table>
+
