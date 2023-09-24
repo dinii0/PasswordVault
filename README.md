@@ -48,6 +48,9 @@ The code I provided is not full. So therefor I recommend manually to add the fil
 
 ## <h2 align=center>*You can give me a star!* </h2>
 <p align="center">
+   
    <img src="https://github-readme-stats.vercel.app/api?username=dinii0&show_icons=true" alt="dinii0's GitHub Stats">
+   
    [![ForTheBadge built-with-love](https://www.builtwithlovellc.com/wp-content/uploads/2022/01/cropped-built-with-love-logo-5.png)](https://github.com/dinii0/PasswordVault/)
+   
 </p>
