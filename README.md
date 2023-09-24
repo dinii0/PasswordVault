@@ -41,23 +41,23 @@ The code I provided is not full. So therefor I recommend manually to add the fil
   <tr>
     <td align="center">
       <h2>Issues, pull requests and repo</h2>
-      <a href="https://github.com/dinii0/Random-Assembly-MIPS-Projects/issues">
-        <img src="https://img.shields.io/github/issues/dinii0/Random-Assembly-MIPS-Projects" alt="GitHub issues">
+      <a href="https://github.com/dinii0/PasswordVault/issues">
+        <img src="https://img.shields.io/github/issues/dinii0/PasswordVault" alt="GitHub issues">
       </a>
-      <a href="https://github.com/dinii0/Random-Assembly-MIPS-Projects/issues?q=is%3Aissue+is%3Aclosed">
-        <img src="https://img.shields.io/github/issues-closed/dinii0/Random-Assembly-MIPS-Projects" alt="GitHub issues closed">
+      <a href="https://github.com/dinii0/PasswordVault/issues?q=is%3Aissue+is%3Aclosed">
+        <img src="https://img.shields.io/github/issues-closed/dinii0/PasswordVault" alt="GitHub issues closed">
       </a>
-      <a href="https://github.com/dinii0/Random-Assembly-MIPS-Projects/pulls">
-        <img src="https://img.shields.io/github/issues-pr/dinii0/Random-Assembly-MIPS-Projects" alt="GitHub pull requests">
+      <a href="https://github.com/dinii0/PasswordVault/pulls">
+        <img src="https://img.shields.io/github/issues-pr/dinii0/PasswordVault" alt="GitHub pull requests">
       </a>
-      <a href="https://github.com/dinii0/Random-Assembly-MIPS-Projects/pulls?q=is%3Apr+is%3Aclosed">
-        <img src="https://img.shields.io/github/issues-pr-closed/dinii0/Random-Assembly-MIPS-Projects" alt="GitHub pull requests closed">
+      <a href="https://github.com/dinii0/PasswordVault/pulls?q=is%3Apr+is%3Aclosed">
+        <img src="https://img.shields.io/github/issues-pr-closed/dinii0/PasswordVault" alt="GitHub pull requests closed">
       </a>
       <br>
       <img src="https://github-readme-stats.vercel.app/api?username=dinii0&show_icons=true" alt="dinii0's GitHub Stats">
       <br>
       <h2>You can give me a star!</h2>
-      <a href="https://github.com/dinii0/Random-Assembly-MIPS-Projects/">
+      <a href="https://github.com/dinii0/PasswordVault/stargazers">
         <img src="https://www.builtwithlovellc.com/wp-content/uploads/2022/01/cropped-built-with-love-logo-5.png" alt="Built with Love">
       </a>
     </td>
